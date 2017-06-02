@@ -84,7 +84,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\bg1.png" />
+    <None Include="Resources\ez_e.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Game_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_char01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_char00.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main_char.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
