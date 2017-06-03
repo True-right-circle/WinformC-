@@ -16,3 +16,12 @@ C:\Users\진우원\Desktop\Winform_Faker_Game\Winform_Faker_Game\obj\Debug\Winfo
 C:\Users\진우원\Desktop\Winform_Faker_Game\Winform_Faker_Game\obj\Debug\Winform_Faker_Game.csproj.GenerateResource.Cache
 C:\Users\진우원\Desktop\Winform_Faker_Game\Winform_Faker_Game\obj\Debug\Winform_Faker_Game.exe
 C:\Users\진우원\Desktop\Winform_Faker_Game\Winform_Faker_Game\obj\Debug\Winform_Faker_Game.pdb
+C:\Users\진우원\Desktop\Winform_Faker_Game_backup2\Winform_Faker_Game\bin\Debug\Winform_Faker_Game.exe.config
+C:\Users\진우원\Desktop\Winform_Faker_Game_backup2\Winform_Faker_Game\bin\Debug\Winform_Faker_Game.exe
+C:\Users\진우원\Desktop\Winform_Faker_Game_backup2\Winform_Faker_Game\bin\Debug\Winform_Faker_Game.pdb
+C:\Users\진우원\Desktop\Winform_Faker_Game_backup2\Winform_Faker_Game\obj\Debug\Winform_Faker_Game.csprojResolveAssemblyReference.cache
+C:\Users\진우원\Desktop\Winform_Faker_Game_backup2\Winform_Faker_Game\obj\Debug\Winform_Faker_Game.Form.resources
+C:\Users\진우원\Desktop\Winform_Faker_Game_backup2\Winform_Faker_Game\obj\Debug\Winform_Faker_Game.Properties.Resources.resources
+C:\Users\진우원\Desktop\Winform_Faker_Game_backup2\Winform_Faker_Game\obj\Debug\Winform_Faker_Game.csproj.GenerateResource.Cache
+C:\Users\진우원\Desktop\Winform_Faker_Game_backup2\Winform_Faker_Game\obj\Debug\Winform_Faker_Game.exe
+C:\Users\진우원\Desktop\Winform_Faker_Game_backup2\Winform_Faker_Game\obj\Debug\Winform_Faker_Game.pdb
