@@ -32,27 +32,27 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form));
             this.pageSetupDialog = new System.Windows.Forms.PageSetupDialog();
             this.dubbleBufferedPanel1 = new Winform_Faker_Game.DubbleBufferedPanel();
+            this.EnemyBox8 = new System.Windows.Forms.PictureBox();
+            this.EnemyBox7 = new System.Windows.Forms.PictureBox();
+            this.EnemyBox6 = new System.Windows.Forms.PictureBox();
+            this.EnemyBox5 = new System.Windows.Forms.PictureBox();
+            this.EnemyBox4 = new System.Windows.Forms.PictureBox();
+            this.EnemyBox3 = new System.Windows.Forms.PictureBox();
             this.EnemyBox2 = new System.Windows.Forms.PictureBox();
             this.EnemyBox1 = new System.Windows.Forms.PictureBox();
             this.mainchareBox = new System.Windows.Forms.PictureBox();
             this.imageList = new System.Windows.Forms.ImageList(this.components);
             this.timer = new System.Windows.Forms.Timer(this.components);
-            this.EnemyBox3 = new System.Windows.Forms.PictureBox();
-            this.EnemyBox4 = new System.Windows.Forms.PictureBox();
-            this.EnemyBox5 = new System.Windows.Forms.PictureBox();
-            this.EnemyBox6 = new System.Windows.Forms.PictureBox();
-            this.EnemyBox7 = new System.Windows.Forms.PictureBox();
-            this.EnemyBox8 = new System.Windows.Forms.PictureBox();
             this.dubbleBufferedPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.EnemyBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.EnemyBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.mainchareBox)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox8)).BeginInit();
             this.SuspendLayout();
             // 
             // dubbleBufferedPanel1
@@ -71,6 +71,72 @@
             this.dubbleBufferedPanel1.Size = new System.Drawing.Size(580, 557);
             this.dubbleBufferedPanel1.TabIndex = 2;
             this.dubbleBufferedPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.dubbleBufferedPanel1_Paint);
+            // 
+            // EnemyBox8
+            // 
+            this.EnemyBox8.BackColor = System.Drawing.Color.Transparent;
+            this.EnemyBox8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.EnemyBox8.Location = new System.Drawing.Point(403, 115);
+            this.EnemyBox8.Name = "EnemyBox8";
+            this.EnemyBox8.Size = new System.Drawing.Size(35, 35);
+            this.EnemyBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.EnemyBox8.TabIndex = 12;
+            this.EnemyBox8.TabStop = false;
+            // 
+            // EnemyBox7
+            // 
+            this.EnemyBox7.BackColor = System.Drawing.Color.Transparent;
+            this.EnemyBox7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.EnemyBox7.Location = new System.Drawing.Point(260, 77);
+            this.EnemyBox7.Name = "EnemyBox7";
+            this.EnemyBox7.Size = new System.Drawing.Size(30, 30);
+            this.EnemyBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.EnemyBox7.TabIndex = 11;
+            this.EnemyBox7.TabStop = false;
+            // 
+            // EnemyBox6
+            // 
+            this.EnemyBox6.BackColor = System.Drawing.Color.Transparent;
+            this.EnemyBox6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.EnemyBox6.Location = new System.Drawing.Point(121, 100);
+            this.EnemyBox6.Name = "EnemyBox6";
+            this.EnemyBox6.Size = new System.Drawing.Size(40, 40);
+            this.EnemyBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.EnemyBox6.TabIndex = 10;
+            this.EnemyBox6.TabStop = false;
+            // 
+            // EnemyBox5
+            // 
+            this.EnemyBox5.BackColor = System.Drawing.Color.Transparent;
+            this.EnemyBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.EnemyBox5.Location = new System.Drawing.Point(83, 215);
+            this.EnemyBox5.Name = "EnemyBox5";
+            this.EnemyBox5.Size = new System.Drawing.Size(35, 35);
+            this.EnemyBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.EnemyBox5.TabIndex = 9;
+            this.EnemyBox5.TabStop = false;
+            // 
+            // EnemyBox4
+            // 
+            this.EnemyBox4.BackColor = System.Drawing.Color.Transparent;
+            this.EnemyBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.EnemyBox4.Location = new System.Drawing.Point(106, 344);
+            this.EnemyBox4.Name = "EnemyBox4";
+            this.EnemyBox4.Size = new System.Drawing.Size(30, 30);
+            this.EnemyBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.EnemyBox4.TabIndex = 8;
+            this.EnemyBox4.TabStop = false;
+            // 
+            // EnemyBox3
+            // 
+            this.EnemyBox3.BackColor = System.Drawing.Color.Transparent;
+            this.EnemyBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.EnemyBox3.Location = new System.Drawing.Point(176, 438);
+            this.EnemyBox3.Name = "EnemyBox3";
+            this.EnemyBox3.Size = new System.Drawing.Size(30, 40);
+            this.EnemyBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.EnemyBox3.TabIndex = 7;
+            this.EnemyBox3.TabStop = false;
             // 
             // EnemyBox2
             // 
@@ -127,72 +193,6 @@
             this.timer.Enabled = true;
             this.timer.Tick += new System.EventHandler(this.timer_Tick);
             // 
-            // EnemyBox3
-            // 
-            this.EnemyBox3.BackColor = System.Drawing.Color.Transparent;
-            this.EnemyBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.EnemyBox3.Location = new System.Drawing.Point(176, 438);
-            this.EnemyBox3.Name = "EnemyBox3";
-            this.EnemyBox3.Size = new System.Drawing.Size(30, 40);
-            this.EnemyBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.EnemyBox3.TabIndex = 7;
-            this.EnemyBox3.TabStop = false;
-            // 
-            // EnemyBox4
-            // 
-            this.EnemyBox4.BackColor = System.Drawing.Color.Transparent;
-            this.EnemyBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.EnemyBox4.Location = new System.Drawing.Point(106, 344);
-            this.EnemyBox4.Name = "EnemyBox4";
-            this.EnemyBox4.Size = new System.Drawing.Size(30, 30);
-            this.EnemyBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.EnemyBox4.TabIndex = 8;
-            this.EnemyBox4.TabStop = false;
-            // 
-            // EnemyBox5
-            // 
-            this.EnemyBox5.BackColor = System.Drawing.Color.Transparent;
-            this.EnemyBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.EnemyBox5.Location = new System.Drawing.Point(83, 215);
-            this.EnemyBox5.Name = "EnemyBox5";
-            this.EnemyBox5.Size = new System.Drawing.Size(35, 35);
-            this.EnemyBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.EnemyBox5.TabIndex = 9;
-            this.EnemyBox5.TabStop = false;
-            // 
-            // EnemyBox6
-            // 
-            this.EnemyBox6.BackColor = System.Drawing.Color.Transparent;
-            this.EnemyBox6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.EnemyBox6.Location = new System.Drawing.Point(121, 100);
-            this.EnemyBox6.Name = "EnemyBox6";
-            this.EnemyBox6.Size = new System.Drawing.Size(40, 40);
-            this.EnemyBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.EnemyBox6.TabIndex = 10;
-            this.EnemyBox6.TabStop = false;
-            // 
-            // EnemyBox7
-            // 
-            this.EnemyBox7.BackColor = System.Drawing.Color.Transparent;
-            this.EnemyBox7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.EnemyBox7.Location = new System.Drawing.Point(260, 77);
-            this.EnemyBox7.Name = "EnemyBox7";
-            this.EnemyBox7.Size = new System.Drawing.Size(30, 30);
-            this.EnemyBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.EnemyBox7.TabIndex = 11;
-            this.EnemyBox7.TabStop = false;
-            // 
-            // EnemyBox8
-            // 
-            this.EnemyBox8.BackColor = System.Drawing.Color.Transparent;
-            this.EnemyBox8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.EnemyBox8.Location = new System.Drawing.Point(403, 115);
-            this.EnemyBox8.Name = "EnemyBox8";
-            this.EnemyBox8.Size = new System.Drawing.Size(35, 35);
-            this.EnemyBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.EnemyBox8.TabIndex = 12;
-            this.EnemyBox8.TabStop = false;
-            // 
             // Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
@@ -202,17 +202,19 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "Form";
             this.Text = "Faker Game";
+            this.Activated += new System.EventHandler(this.Form_Activated);
+            this.Deactivate += new System.EventHandler(this.Form_Deactivate);
             this.PreviewKeyDown += new System.Windows.Forms.PreviewKeyDownEventHandler(this.Form_PreviewKeyDown);
             this.dubbleBufferedPanel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.EnemyBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.EnemyBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.mainchareBox)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.EnemyBox8)).EndInit();
             this.ResumeLayout(false);
 
         }

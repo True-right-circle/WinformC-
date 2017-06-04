@@ -54,7 +54,9 @@ namespace Winform_Faker_Game
                 {
                     index = 0;
                 }
-
+                
+                    
+               
                 if (EnemyBox1.Location.X <= 100)
                 {
                     EnemyBox1.Location = new Point(488, 212);
@@ -66,7 +68,9 @@ namespace Winform_Faker_Game
                 {
                     EnemyBox1.Left -= px;
                 }
-            } 
+             
+
+            }
 
 
             if (count2 > 10) //오른쪽 아래의 적
@@ -347,6 +351,49 @@ namespace Winform_Faker_Game
             count6++;
             count7++;
             count8++;
+            if (mainchareBox.Bounds.IntersectsWith(EnemyBox1.Bounds))
+            {
+                MessageBox.Show("Game Over");
+            }
+            else if(mainchareBox.Bounds.IntersectsWith(EnemyBox2.Bounds))
+            {
+                MessageBox.Show("Game Over");
+            }
+            else if (mainchareBox.Bounds.IntersectsWith(EnemyBox3.Bounds))
+            {
+                MessageBox.Show("Game Over");
+            }
+            else if (mainchareBox.Bounds.IntersectsWith(EnemyBox4.Bounds))
+            {
+                MessageBox.Show("Game Over");
+            }
+            else if (mainchareBox.Bounds.IntersectsWith(EnemyBox5.Bounds))
+            {
+                MessageBox.Show("Game Over");
+            }
+            else if (mainchareBox.Bounds.IntersectsWith(EnemyBox6.Bounds))
+            {
+                MessageBox.Show("Game Over");
+            }
+            else if (mainchareBox.Bounds.IntersectsWith(EnemyBox7.Bounds))
+            {
+                MessageBox.Show("Game Over");
+            }
+            else if (mainchareBox.Bounds.IntersectsWith(EnemyBox8.Bounds))
+            {
+                MessageBox.Show("Game Over");
+            }
+
+        }
+
+        private void Form_Activated(object sender, EventArgs e)
+        {
+            timer.Enabled = true;
+        }
+
+        private void Form_Deactivate(object sender, EventArgs e)
+        {
+            timer.Enabled = false;
         }
 
         private void dubbleBufferedPanel1_Paint(object sender, PaintEventArgs e)
