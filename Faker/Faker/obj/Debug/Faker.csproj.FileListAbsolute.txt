@@ -1,0 +1,30 @@
+c:\users\sjhur\documents\visual studio 2017\Projects\Faker\Faker\obj\Debug\Faker.csprojResolveAssemblyReference.cache
+c:\users\sjhur\documents\visual studio 2017\Projects\Faker\Faker\obj\Debug\Faker.mainmenu.resources
+c:\users\sjhur\documents\visual studio 2017\Projects\Faker\Faker\obj\Debug\Faker.Properties.Resources.resources
+c:\users\sjhur\documents\visual studio 2017\Projects\Faker\Faker\obj\Debug\Faker.csproj.GenerateResource.Cache
+c:\users\sjhur\documents\visual studio 2017\Projects\Faker\Faker\bin\Debug\Faker.exe.config
+c:\users\sjhur\documents\visual studio 2017\Projects\Faker\Faker\bin\Debug\Faker.exe
+c:\users\sjhur\documents\visual studio 2017\Projects\Faker\Faker\bin\Debug\Faker.pdb
+c:\users\sjhur\documents\visual studio 2017\Projects\Faker\Faker\obj\Debug\Faker.exe
+c:\users\sjhur\documents\visual studio 2017\Projects\Faker\Faker\obj\Debug\Faker.pdb
+c:\users\sjhur\documents\visual studio 2017\Projects\Faker\Faker\obj\Debug\Faker.Game.resources
+C:\Users\Jin\Desktop\Faker\Faker\bin\Debug\Faker.exe.config
+C:\Users\Jin\Desktop\Faker\Faker\obj\Debug\Faker.exe
+C:\Users\Jin\Desktop\Faker\Faker\obj\Debug\Faker.pdb
+C:\Users\Jin\Desktop\Faker\Faker\bin\Debug\Faker.exe
+C:\Users\Jin\Desktop\Faker\Faker\bin\Debug\Faker.pdb
+C:\Users\Jin\Desktop\Faker\Faker\obj\Debug\Faker.csprojResolveAssemblyReference.cache
+C:\Users\Jin\Desktop\Faker\Faker\obj\Debug\Faker.mainmenu.resources
+C:\Users\Jin\Desktop\Faker\Faker\obj\Debug\Faker.Game.resources
+C:\Users\Jin\Desktop\Faker\Faker\obj\Debug\Faker.Properties.Resources.resources
+C:\Users\Jin\Desktop\Faker\Faker\obj\Debug\Faker.csproj.GenerateResource.Cache
+C:\Users\진우원\Desktop\Faker\Faker\obj\Debug\Faker.csprojResolveAssemblyReference.cache
+C:\Users\진우원\Desktop\Faker\Faker\obj\Debug\Faker.mainmenu.resources
+C:\Users\진우원\Desktop\Faker\Faker\obj\Debug\Faker.Game.resources
+C:\Users\진우원\Desktop\Faker\Faker\obj\Debug\Faker.Properties.Resources.resources
+C:\Users\진우원\Desktop\Faker\Faker\obj\Debug\Faker.csproj.GenerateResource.Cache
+C:\Users\진우원\Desktop\Faker\Faker\obj\Debug\Faker.exe
+C:\Users\진우원\Desktop\Faker\Faker\obj\Debug\Faker.pdb
+C:\Users\진우원\Desktop\Faker\Faker\bin\Debug\Faker.exe.config
+C:\Users\진우원\Desktop\Faker\Faker\bin\Debug\Faker.exe
+C:\Users\진우원\Desktop\Faker\Faker\bin\Debug\Faker.pdb
